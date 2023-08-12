@@ -1,0 +1,79 @@
+body{
+    background-image: url('beauty.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: whitesmoke;
+}
+li{
+    float: left;
+    list-style-type: none;
+}
+li.pic{
+    padding-left:30% ;
+}
+li.logo{
+    font-family: fantasy;
+    font-size:40px;
+    padding-left:;
+    color:rgb(51, 11, 11);
+}
+p.logo{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:15px;
+    color:whitesmoke;
+    text-align: center;
+}
+li.me{
+    float: right;
+    padding-right:10%;
+}
+.nav{
+    padding-top:10px;
+}
+.form{
+    padding-top:200px;
+    padding-left:30%;
+}
+table{
+    border: inset black;
+}
+input{
+    background-color: brown;
+    color: whitesmoke;
+}
+input:hover{
+    background-color: darkred;
+    color: whitesmoke;
+}
+td{
+    text-align: center;
+}
+button{
+    background-color: blue;
+}
+button:hover{
+    padding:3px;
+    background-color: rgb(15, 158, 87);
+}
+a:link{
+    color: rgb(30, 218, 130);
+}
+a:visited{
+    color: cornflowerblue;
+}
+a:hover{
+    color:skyblue;
+}
+a:active{
+    color: hotpink;
+}
+.footer{
+    position: fixed;
+    bottom:0%;
+    width: 100%;
+}
+p{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
